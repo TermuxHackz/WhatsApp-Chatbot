@@ -14,9 +14,9 @@ To run the following python script you will need the Selenium Webdriver for Pyth
 
 Clone into repository
 
-> git clone https://github.com/TermuxHackz/WharsApp-Chatbot
+> git clone https://github.com/TermuxHackz/WhatsApp-Chatbot
 
-> cd WharsApp-Chatbot
+> cd WhatsApp-Chatbot
 
 ```Run the```
 
