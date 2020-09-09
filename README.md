@@ -26,7 +26,7 @@ Wait for both tabs to load and navigate to the WhatsApp Tab
 If you are running for the first time scan the QRCode using your phone
 Select the Group or Person you want the Chat bot to work with
 Press ENTER in the python terminal
-Now ask your friend to send a message. All messages to the chat bot should start with the >>$<< sign.
+Now ask your friend to send a message. All messages to the chat bot should start with the >> $ sign.
 
 Example : $Hello there.
 
